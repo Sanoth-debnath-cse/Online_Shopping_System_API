@@ -1,0 +1,1 @@
+scaffold-DbContext "Server=DREAMENGINE\SQLEXPRESS;Database=OnlineShoppingSystem;Trusted_Connection=True;MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Models" -ContextDir "DbContexts" -Context "AppDbContext" -DataAnnotations -t dbo.OrderTbl,dbo.ProductTbl,dbo.ShoppingCartHeader,dbo.ShoppingCartRow -f

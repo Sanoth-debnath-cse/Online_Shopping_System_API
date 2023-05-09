@@ -1,0 +1,68 @@
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\appsettings.Development.json
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\appsettings.json
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Online Shopping System.exe
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Online Shopping System.deps.json
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Online Shopping System.runtimeconfig.json
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Online Shopping System.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Online Shopping System.pdb
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.csproj.AssemblyReference.cache
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.AssemblyInfoInputs.cache
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.AssemblyInfo.cs
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.csproj.CoreCompileInputs.cache
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.MvcApplicationPartsAssemblyInfo.cs
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\staticwebassets\msbuild.Online Shopping System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\staticwebassets\msbuild.build.Online Shopping System.props
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online Shopping System.props
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online Shopping System.props
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\scopedcss\bundle\Online Shopping System.styles.css
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.csproj.CopyComplete
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\refint\Online Shopping System.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.pdb
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\Online Shopping System.genruntimeconfig.cache
+C:\Personal\BS\Online Shopping System\Online Shopping System\obj\Debug\net6.0\ref\Online Shopping System.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Humanizer.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Personal\BS\Online Shopping System\Online Shopping System\bin\Debug\net6.0\Newtonsoft.Json.dll
